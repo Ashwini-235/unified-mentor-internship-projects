@@ -49,7 +49,7 @@ This repository contains the 3 core projects completed during my internship with
 
 ---
 
-## ✍ Author
+##  Author
 
 **Ashwini Reddy**  
 MSc Data Science (2025)  
